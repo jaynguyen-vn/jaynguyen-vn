@@ -8,8 +8,8 @@
 
 ## Current Projects
 
-- 🔔 [MindBell](https://github.com/jaynguyen-vn/mind-bell) - A minimal focus timer that lives in your macOS menu bar. No dock icon, no distractions. ([mindbell.lifelonglearning.dev](https://mindbell.lifelonglearning.dev/))
-- ⌨️ [GenSnippets](https://github.com/jaynguyen-vn/gen-snippets) - Privacy-focused text expander for macOS. 100% offline, system-wide. ([gensnippets.lifelonglearning.dev](https://gensnippets.lifelonglearning.dev/))
+- 🔔 [MindBell](https://github.com/jaynguyen-vn/mind-bell) - A minimal focus timer that lives in your macOS menu bar. No dock icon, no distractions. · [Website](https://mindbell.lifelonglearning.dev/)
+- ⌨️ [GenSnippets](https://github.com/jaynguyen-vn/gen-snippets) - Privacy-focused text expander for macOS. 100% offline, system-wide. · [Website](https://gensnippets.lifelonglearning.dev/)
 ---
 
 Building tools that help people do more with less.
