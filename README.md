@@ -10,8 +10,6 @@
 
 - 🔔 [MindBell](https://github.com/jaynguyen-vn/mind-bell) - A minimal focus timer that lives in your macOS menu bar. No dock icon, no distractions.
 - ⌨️ [GenSnippets](https://github.com/jaynguyen-vn/gen-snippets) - Privacy-focused text expander for macOS. 100% offline, system-wide. ([gensnippets.com](http://gensnippets.com/))
-- 🔤 [GenFonts](https://github.com/jaynguyen-vn/gen-fonts) - Chrome extension to swap website fonts with per-site customization.
-
 ---
 
 Building tools that help people do more with less.
