@@ -1,26 +1,17 @@
-# Hey, I'm Jay
+# Hi, I'm Jay 👋
 
-Product builder who loves solving everyday problems with simple, focused tools.
+📍 Vietnam | 🛠️ Product Builder | 🎯 Productivity Obsessed
 
-I believe the best software does one thing really well — saves you time and stays out of your way.
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) ![Chrome](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## What I Build
+> I build small, focused tools that solve real problems — for myself first, then for others. Every product I ship is about saving time and cutting distractions. The best tool is the one you forget is running.
 
-### [MindBell](https://github.com/jaynguyen-vn/mind-bell)
-A minimal focus timer that lives in your macOS menu bar. Set a duration, pick a calm sound, and get back to work. No dock icon, no distractions — just a gentle reminder when your session ends.
+## Current Projects
 
-`Swift` `macOS` `Menu Bar`
-
-### [GenSnippets](https://github.com/jaynguyen-vn/gen-snippets)
-A privacy-focused text expander for macOS. Type a short keyword, get instant text replacement — system-wide. 100% offline, no data leaves your machine.
-
-`SwiftUI` `macOS` `Productivity` — [gensnippets.com](http://gensnippets.com/)
-
-### [GenFonts](https://github.com/jaynguyen-vn/gen-fonts)
-A Chrome extension that lets you swap website fonts with per-site customization. Make the web look the way you want.
-
-`Chrome Extension` `Fonts`
+- 🔔 [MindBell](https://github.com/jaynguyen-vn/mind-bell) - A minimal focus timer that lives in your macOS menu bar. No dock icon, no distractions.
+- ⌨️ [GenSnippets](https://github.com/jaynguyen-vn/gen-snippets) - Privacy-focused text expander for macOS. 100% offline, system-wide. ([gensnippets.com](http://gensnippets.com/))
+- 🔤 [GenFonts](https://github.com/jaynguyen-vn/gen-fonts) - Chrome extension to swap website fonts with per-site customization.
 
 ---
 
-Building tools that help people do more with less. If any of these solve a problem for you, that's the best feedback I could ask for.
+Building tools that help people do more with less.
